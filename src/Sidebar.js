@@ -4,6 +4,15 @@ import { Avatar } from "@mui/material";
 
 
 function Sidebar() {
+      
+    const recentItem = (topic) => (
+        <div className="sidebar_recentItem">
+            <span className="sidebar_hash">#</span>
+            <p>{topic}</p>
+        </div>
+    )
+
+
   return (
     <div className="sidebar">
 
@@ -30,6 +39,11 @@ function Sidebar() {
 
          <div className="sidebar_bottom">
              <p>Recent</p>
+             {recentItem("reactjs")}
+             {recentItem("programming")}
+             {recentItem("softwareengineering")}
+             {recentItem("design")}
+             {recentItem("developer")}
          </div>
 
     </div>
