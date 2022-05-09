@@ -4,9 +4,9 @@ import SearchIcon from '@mui/icons-material/Search';
 import HeaderOption from './HeaderOption';
 import HomeIcon from '@mui/icons-material/Home';
 import SupervisorAccountIcon from '@mui/icons-material/SupervisorAccount';
-import BusinessCenterIcon from '@mui/icons-material/SupervisorAccount';
-import ChatIcon from '@mui/icons-material/SupervisorAccount';
-import NotificationIcon from '@mui/icons-material/SupervisorAccount';
+import BusinessCenterIcon from '@mui/icons-material/BusinessCenter';
+import ChatIcon from '@mui/icons-material/Chat';
+import NotificationIcon from '@mui/icons-material/Notifications';
 
 
 
@@ -32,6 +32,7 @@ function Header() {
         <HeaderOption Icon={BusinessCenterIcon} title="Jobs" />
         <HeaderOption Icon={ChatIcon} title="Messaging" />
         <HeaderOption Icon={NotificationIcon} title="Notifications" />
+        <HeaderOption avatar="https://github.com/aditisinghdeveloper/linkedin-clone/blob/master/src/B612_20211125_004318_533.jpg?raw=true" title='me' />
 
     </div>
 
