@@ -34,3 +34,8 @@
     margin-top: 0px;
     margin-bottom: 0px;
 }
+
+.post_buttons{
+    display: flex;
+    justify-content: space-evenly;
+}
