@@ -5,6 +5,7 @@ import './App.css';
 import Header from './Header';
 import Sidebar from './Sidebar';
 import Feed from './Feed.js';
+import Widgets from './Widgets.js';
 import Login from './Login';
 import { auth } from './firebase';
 import { SecurityUpdateSharp } from '@mui/icons-material';
@@ -44,7 +45,7 @@ function App() {
         <Sidebar />
       
         <Feed />
-      {/* Widgets */}
+      < Widgets />
       </div>
        )}
 
