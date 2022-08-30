@@ -1,0 +1,2 @@
+![LinkedIn-clone-screenshot](https://github.com/aditisinghdeveloper/linkedin-clone/blob/master/screencapture-localhost-3002-2022-08-30-11_10_49.png)
+(https://github.com/aditisinghdeveloper/linkedin-clone/blob/master/screencapture-localhost-3002-2022-08-30-11_16_40.png)
