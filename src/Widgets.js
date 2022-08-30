@@ -3,6 +3,7 @@ import "./Widgets.css";
 import InfoIcon from '@mui/icons-material/Info';
 import FiberManualRecordIcon from '@mui/icons-material/FiberManualRecord';
 
+
 function Widgets() {
 
   const newsArticle = (heading, subtitle) => (

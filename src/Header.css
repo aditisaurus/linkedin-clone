@@ -9,7 +9,11 @@
    padding-bottom: 10px;
    width: 100%;
    z-index: 999;
+
 }
+
+
+
 
 .header_left {
     display: flex;
@@ -31,11 +35,14 @@
     background-color: #eef3f8;
 }
 
+
+
 .header_search > input{
     outline: none;
     border: none;
     background: none;
 }
+
 
 .header_right {
     display: flex;

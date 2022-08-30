@@ -34,6 +34,7 @@ function Header() {
             <input placeholder="Search" type="text" />
         </div>
 
+
     </div>
 
     <div className="header_right">
